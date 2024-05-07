@@ -1,16 +1,12 @@
-# mobil_w10
+# Mobil Programlama
 
-A new Flutter project.
+Hafta 10 - 8 Mayıs 2024
 
-## Getting Started
+## Giresun Üniversitesi Bilişim Güvenliği Teknolojisi Önlisans Programı
 
-This project is a starting point for a Flutter application.
+Bu hafta aşağıdaki konular işlenecektir.
 
-A few resources to get you started if this is your first Flutter project:
+- setState yapısı
+- değişkenler
+- Button Widgetleri
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
