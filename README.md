@@ -10,3 +10,5 @@ Bu hafta aşağıdaki konular işlenecektir.
 - değişkenler
 - Button Widgetleri
 
+Widget Tanıtım Videoları
+https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG
